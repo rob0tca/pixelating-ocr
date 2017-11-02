@@ -1,8 +1,8 @@
 function extractTextOnOpen() {
 
     //ADD YOUR VALUES BELOW
-    var folderName = "toOCR";
-    var sheetId = "19bHk8ZziyPYavD29VeBwe6icsnr6GBpVXZL31iUSTho";
+    var folderName = [YOUR FOLDER NAME HERE];
+    var sheetId =[YOUR SHEET ID HERE];
 
     //Define folders
     var folder = DriveApp.getFoldersByName(folderName).next();
