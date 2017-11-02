@@ -1,5 +1,6 @@
 # pixelating-ocr
 Materials from Digital Himalaya, OCR, and Non-Latin Text
+
 UBC Library Pixelating Workshop 11/02/2017
 
 Contents:
