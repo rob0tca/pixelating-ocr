@@ -23,7 +23,7 @@ Outputs a Google sheet mapping OCR text to original file names.
 
 1. Upload jpegs to the folder you set up.
 2. Open up the spreadsheet.
-3. Make a cup of coffee and relax while the magic happens.
+3. Make a cup of coffee/tea and relax while the magic happens.
 
 Behind the scenes, Google Drive will convert each pdf to a Google doc with OCR text. Then it will take that text, and add it to the specified sheet alongside the name of the file.
 
