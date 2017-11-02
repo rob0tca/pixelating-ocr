@@ -32,6 +32,7 @@ Behind the scenes, Google Drive will convert each pdf to a Google doc with OCR t
 Research: Laura Ferris, Digital Initiatives Assistant, UBC Library
 
 Code: Rebecca Dickson, Digital Projects Student Librarian, UBC Library
+
 Inspiration: http://blogs.bl.uk/digital-scholarship/2017/07/a-workshop-on-optical-character-recognition-for-bangla.html
 
 ### License
