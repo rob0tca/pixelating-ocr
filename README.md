@@ -1,14 +1,13 @@
 # pixelating-ocr
-Materials from Digital Himalaya, OCR, and Non-Latin Text
 
-UBC Library [Pixelating](https://events.library.ubc.ca/series/118) Workshop 11/02/2017
+### Related Presentations
 
-### Contents:
+- "Digital Himalaya, OCR, and Non-Latin Text". Workshop held with Laura Ferris at the [UBC Library's Pixelating Mixer](https://events.library.ubc.ca/series/118), November 2, 2017. [(Google Slides)](https://docs.google.com/presentation/d/1euANzVrodh9U2L69O2uEfU7NHyEW5zM_gA_Vh0HYxbA/edit?usp=sharing)
+- "OCR Tools for Non-Latin text: Lessons from the Digital Himalaya Project". Lightning talk presented at [Code4Lib BC](https://wiki.code4lib.org/BC), December 1, 2017. [(Google Slides)](https://docs.google.com/presentation/d/12AtxABkYr9m2bJY6Pa3jEIViHAlt39lyrc1ZhvCakI8/edit?usp=sharing)
+
+### Repository Contents
 - [*docs_ocr.gs*](./docs_ocr.gs): Google Apps script for extracting text from a batch of JPEG files
 - [*sample_items*](./sample_items): contains jpeg images from [Mother Tongue Pipal Pustak](http://www.digitalhimalaya.com/collections/journals/mtpp/) and [Nepali Aawaz](http://www.digitalhimalaya.com/collections/journals/nepaliaawaz/). Made available by the [Digital Himalaya Project](http://www.digitalhimalaya.com) under [Attribution-NonCommercial-NoDerivs 3.0 Unported](https://creativecommons.org/licenses/by-nc-nd/3.0/) license.
-
-
-Slides available at https://docs.google.com/presentation/d/1euANzVrodh9U2L69O2uEfU7NHyEW5zM_gA_Vh0HYxbA/edit?usp=sharing
 
 ## Google Drive Batch OCR Script (docs_ocr.gs)
 
