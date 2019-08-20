@@ -30,6 +30,10 @@ This script was created to generate transcripts from images featuring Nepali & T
 2. Open up the spreadsheet.
 3. Make a cup of coffee/tea and relax while Google converts the jpegs, extracts text, and populates the spreadsheet.
 
+### Troubleshooting
+
+* 'Google Drive: Page not found' : Make sure you're only logged into one Google account (see [Stack Overflow](https://stackoverflow.com/questions/47045209/google-drive-page-not-found-sorry-unable-to-open-the-file-at-this-time)) 
+
 ### Credits
 
 Research: Laura Ferris, Digital Initiatives Assistant, UBC Library
